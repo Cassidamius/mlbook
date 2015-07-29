@@ -15,7 +15,7 @@ std_rack,68,80,FALSE,no
 std_rack,65,70,TRUE,yes
 cd_spec,64,65,TRUE,yes
 end_rack,72,95,FALSE,yes
-end_rack,69,70,FALSE,no
+end_rack,69,70,FALSE,yes
 std_rack,75,80,FALSE,no
 end_rack,75,70,TRUE,no
 cd_spec,72,90,TRUE,no
